@@ -12,12 +12,13 @@ Features:
   
   User authentication and role-based access
 
-Tech Stack:
+## Tech Stack
+- **Backend:**
+  - Kotlin
+- **Frontend:**
+  - XML
+- **Database:**
+  - Firebase
+- **Build Tool:**
+  - Gradle (Kotlin DSL)
 
-  Backend: Kotlin
-  
-  Frontend: XML
-  
-  Database: Firebase
-  
-  Build Tool: Gradle (Kotlin DSL)
